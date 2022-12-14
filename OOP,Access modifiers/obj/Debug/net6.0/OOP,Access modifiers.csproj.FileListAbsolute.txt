@@ -1,0 +1,15 @@
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\obj\Debug\net6.0\OOP,Access modifiers.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\obj\Debug\net6.0\OOP,Access modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\obj\Debug\net6.0\OOP,Access modifiers.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\obj\Debug\net6.0\OOP,Access modifiers.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\obj\Debug\net6.0\OOP,Access modifiers.csproj.CoreCompileInputs.cache
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\bin\Debug\net6.0\OOP,Access modifiers.exe
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\bin\Debug\net6.0\OOP,Access modifiers.deps.json
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\bin\Debug\net6.0\OOP,Access modifiers.runtimeconfig.json
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\bin\Debug\net6.0\OOP,Access modifiers.dll
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\bin\Debug\net6.0\OOP,Access modifiers.pdb
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\obj\Debug\net6.0\OOP,Access modifiers.dll
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\obj\Debug\net6.0\refint\OOP,Access modifiers.dll
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\obj\Debug\net6.0\OOP,Access modifiers.pdb
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\obj\Debug\net6.0\OOP,Access modifiers.genruntimeconfig.cache
+C:\Users\User-BT\Desktop\Class new\OOP,Access modifiers\OOP,Access modifiers\obj\Debug\net6.0\ref\OOP,Access modifiers.dll
